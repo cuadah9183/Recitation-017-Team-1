@@ -1,5 +1,5 @@
 # Recitation-017-Team-1
-Recitation for Soft. Dev. 3308 (Group 2)
+Software Development Lab Group 2
 
 Group Members:
 - William van Vuuren: "willvanvuuren"
