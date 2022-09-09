@@ -1,5 +1,5 @@
 # Recitation-017-Team-1
-Software Development Lab Group 2????
+Software Development Lab Group 2
 
 Group Members:
 - William van Vuuren: "willvanvuuren"
