@@ -1,6 +1,5 @@
 # Recitation-017-Team-1
-SSoftware Development Lab Group 2
-
+Software Development Lab Group 2
 Group Members:
 - William van Vuuren: "willvanvuuren"
 - Aditya Ahuja: "cuadah9183"
