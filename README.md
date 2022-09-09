@@ -1,8 +1,8 @@
 # Recitation-017-Team-1
-3308 Lab 2
+something different hehe
 
-Project Group Members:
-- William van Vuuren
+Group Members:
+- William van Vuuren: "willvanvuuren"
 - Aditya Ahuja: "cuadah9183"
 - Anthony Helsel: "ahelsel"
 - Reda Razza: "rera8642"
