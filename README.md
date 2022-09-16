@@ -7,4 +7,5 @@ Group Members:
 - Reda Razza: "rera8642"
 
 Social Media Website where users can post images with descriptions and interact with images and fellow users.
+
 I am forcing changes to the main branch to cause merge conflicts
