@@ -9,6 +9,6 @@ int main()
 {
     // prints hello world
     cout << "Hello World";
-    cout << This is a sample program";
+    cout << "This is a sample program";
     return 0;
 }
