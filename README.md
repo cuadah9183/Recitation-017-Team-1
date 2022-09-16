@@ -11,3 +11,5 @@ Group Members:
 Social Media Website where users can post images with descriptions and interact with images and fellow users.
 
 I am forcing changes to the main branch to cause merge conflicts
+
+Adding a couple of lines from Github UI 
